@@ -1,4 +1,6 @@
 # modularismv1
+The Modularism Smart Contract provides low-cost and secure token transfers and spending allowance management on the Ethereum network. Token transfers and balances are managed with BalanceContract, while spending allowances are managed with ApproveContract. This modular structure makes transactions easy and secure.
+
 Modularism allows you to create modular Solidity contracts, providing low transaction fees and secure systems.
 
 {Ethereum Mainnet}
